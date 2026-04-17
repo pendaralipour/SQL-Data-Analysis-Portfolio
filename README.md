@@ -13,11 +13,10 @@ Build real-world SQL skills and complete data analysis projects.
 
 ## Progress:
 
-* 1: SELECT
-* 2: WHERE
-* 3: ORDER BY
-* 4: LIMIT
-* 5: GROUP BY
-* 6: DISTINCT
-* 7: COUNT
-* 
+📈 Progress
+1: SELECT basics ✅
+2: WHERE filtering ✅
+3: ORDER BY & LIMIT ✅
+4: DISTINCT & COUNT ✅
+5: GROUP BY basics ✅
+
