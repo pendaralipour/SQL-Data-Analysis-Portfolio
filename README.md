@@ -13,5 +13,11 @@ Build real-world SQL skills and complete data analysis projects.
 
 ## Progress:
 
-* Day 1: SELECT queries ✅
-* Day 2: WHERE queries ⏳
+* 1: SELECT
+* 2: WHERE
+* 3: ORDER BY
+* 4: LIMIT
+* 5: GROUP BY
+* 6: DISTINCT
+* 7: COUNT
+* 
