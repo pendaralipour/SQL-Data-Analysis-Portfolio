@@ -1,7 +1,5 @@
--- Employees with salary greater than 3000
-SELECT * FROM employees
-WHERE salary > 3000;
+-- All col from employees
+SELECT * FROM employees;
 
--- Name of employee with salary = 2000
-SELECT name FROM employees
-WHERE salary = 2000;
+-- Name col from emploees
+SELECT Name FROM emploees;
